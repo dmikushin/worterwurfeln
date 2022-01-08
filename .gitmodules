@@ -1,0 +1,3 @@
+[submodule "ThirdParty/words"]
+	path = ThirdParty/words
+	url = https://github.com/lorenbrichter/Words.git
